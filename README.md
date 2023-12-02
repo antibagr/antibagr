@@ -9,7 +9,7 @@
 
 - 👀 Looking for: for new opportunities -> [connect with me](#connect-with-me)
 
-- 🌟 Wish to: be an excellent software engineer and create meaningful software
+- 🟡 A volunteer in Samantha Smith’s Group: consider [become a volunteer](https://samanthasgroup.com/en)
 
 - 🦄 Learning: open source contribution
 
