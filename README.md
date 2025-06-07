@@ -3,9 +3,9 @@
 </div>
   
 
-### <div align="center">Hi, I'm Anthony! Look at my pinned repositories below to view some of my latest works!</div>    
+### <div align="center">Hi, I'm Rudolf! Look at my pinned repositories below to view some of my latest works!</div>    
 
-- 🐙 whois: Ex-Intema.ai Senior Backend Developer with 4+ years of commercial development
+- 🐙 whois: Ex-Intema.ai Senior Backend Developer with 5+ years of commercial development
 
 - 👀 Looking for: for new opportunities -> [connect with me](#connect-with-me)
 
